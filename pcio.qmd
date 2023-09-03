@@ -1,0 +1,38 @@
+---
+title: "PICO"
+author: "Kelompok 1"
+format: revealjs
+editor: visual
+---
+
+## Instruksi
+Membuat pertanyaan klinis berdasarkan prinsip PICO !
+
+## Skenario
+Kita menghadapi anak dg defisiensi growth hormone (GH), apakah pemberian terapi GH eksogen dapat memacu pertumbuhan anak tersebut?
+
+## PICO
+
+::: {.incremental}
+
+-  P (patient/population): Anak usia 2 - 14 tahun dengan isolated growth hormone deficiency
+
+-  I (ntervention): Terapi GH eksogen dengan dosis awal 25 mcg/kgBB/hari
+
+-  C (comparator/control): lasebo
+
+-  O (outcome): laju peningkatan tinggi badan per tahun (Δ height velocity) >3 cm dalam 12 bulan terapi.
+
+:::
+
+## Pertanyaan Klinis
+Pada pasien anak usia 2 -14 tahun dengan isolated growth hormone deficiency, apakah pemberian growth hormone eksogen sebagai terapi dapat meningkatkan height velocity >3 cm/tahun pada 12 bulan terapi dibandingkan anak yang diberikan terapi plasebo.
+
+::: footer
+-  https://academic.oup.com/jcem/article/93/2/352/2597982
+-  https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2012.04420.x
+-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6979443/
+:::
+
+
+
