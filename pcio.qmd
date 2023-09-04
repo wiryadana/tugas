@@ -19,7 +19,7 @@ Kita menghadapi anak dg defisiensi growth hormone (GH), apakah pemberian terapi 
 
 -  I (ntervention): Terapi GH eksogen dengan dosis awal 25 mcg/kgBB/hari
 
--  C (comparator/control): lasebo
+-  C (comparator/control): plasebo
 
 -  O (outcome): laju peningkatan tinggi badan per tahun (Δ height velocity) >3 cm dalam 12 bulan terapi.
 
